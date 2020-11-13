@@ -1,7 +1,7 @@
 # NetworkPrograming
 
 
-##함수 설명
+## 함수 설명
 ```C
 //초기 메인 인터페이스 작성
 void display() {
